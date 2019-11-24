@@ -1,0 +1,10 @@
+{
+  "devToolsPort": 19002,
+  "expoServerPort": 19000,
+  "packagerPort": 19001,
+  "packagerPid": 17722,
+  "expoServerNgrokUrl": "https://ib-maj.calebventura.freshgo.exp.direct",
+  "packagerNgrokUrl": "https://packager.ib-maj.calebventura.freshgo.exp.direct",
+  "ngrokPid": 18139,
+  "webpackServerPort": null
+}
