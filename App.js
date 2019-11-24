@@ -27,7 +27,7 @@ class FreshGo extends Component{
 
         <Image source={require('./assets/img/logo.png')} style={styles.logo}/>
 
-        <Text style={{fontSize:30, margin:25, color: '#fff',}}> ¡BIENVENIDO A FRESH GO!</Text>
+        <Text style={{fontSize:30, margin:25, color: '#fff',}}> ¡BIENVENIDO FRESH GO!</Text>
         <View style={styles.button}>
           <Text style={styles.buttonText} onPress={this.sumarContador}> HAZ TU PEDIDO ¡YA! </Text>
         </View>
